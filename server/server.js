@@ -1,4 +1,3 @@
-// 0307deepali25     csdeepalisahu
 
 import express from "express";
 import mongoose from "mongoose";
